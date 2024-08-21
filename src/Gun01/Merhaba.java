@@ -11,6 +11,8 @@ public class Merhaba {
 
         System.out.println("Task 3 kodları");
 
+        System.out.println("Yeni yapılan çalışma");
+
         for (int i = 0; i <10 ; i++) {
             System.out.println("Task 4 yapıldı");
 
