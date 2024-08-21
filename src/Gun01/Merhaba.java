@@ -9,6 +9,8 @@ public class Merhaba {
         System.out.println("Task 1 kodları");
 
         System.out.println("Task 2 kodları");
+
+        System.out.println("Task 3 kodları");
     }
 }
 // Kırmızı renk : BU DOSYA HENÜZ TAKİP EDİLMİYOR
